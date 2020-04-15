@@ -17,4 +17,4 @@ orchestrate some pretty neat stuff with this app.
 1. Clone this repository (`git clone https://github.com/johnisom/dynamic-animations`)
 2. `cd` into the repository (`cd dynamic-animations`)
 3. Open `index.html` in your favorite web browser
-4. Have fun animating shapes
+4. Enjoy animating shapes
